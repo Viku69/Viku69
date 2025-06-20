@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20I'm%20Vikram%20Singh%20👻&fontAlignY=40&color=gradient&customColorList=11,12&desc=Mobile%20Developer%20|%20ML%20Enthusiast%20|%20Full%20Stack%20Learner&descAlignY=60&fontColor=ffffff" alt="Banner">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Vikram Singh</h1>
+<h1 align="center">Hi there! 😉  I'm Vikram Singh</h1>
 
 <p align="center">
   🚀 Mobile App Developer | iOS & React Native | MERN & ML Enthusiast | QA Automation Trainee
